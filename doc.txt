@@ -1,0 +1,17 @@
+installer pyautogui et keyboard sur le terminal via : pip install X
+run le programme avec python AtlF4.py
+
+
+https://farts.link/
+
+Ouvrez Paint ou un autre logiciel de retouche et retournez la capture à 180°. Sauvegardez le tout en tant que fond d'écran. Une fois ce nouveau fond d'écran en place, masquez les icônes du bureau (clic droit>Affichage>Masquer les icônes) et la barre de tâches. Encore quelques manipulations et le tour est joué ! Inversez le bureau (Ctrl+Alt+flèche du bas). Et terminez pas un passage du clavier en mode Qwerty (Alt+Shift).
+
+vitesse de la souris
+paramettre-rechercher:"vitesse souris"-souris
+
+vitesse de frappe
+paramettre-accessibilité-clavier-touches filtres-igorer les frappes rapides
+
+taille souris 
+Pointeur de souris et interaction tactile
+-> paramètre de souris supplémentaires-options du pointeur-afficher les traces de la souris
